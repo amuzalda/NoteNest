@@ -1,4 +1,4 @@
 from pymongo import MongoClient
 
-MONGO_URI = "mongodb+srv://Phoenix:Phoenix9009@shotay.h4uaiou.mongodb.net/"
+MONGO_URI = ""
 conn = MongoClient(MONGO_URI)
